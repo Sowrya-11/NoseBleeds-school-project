@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: cyan;
+  }
+  #save{
+    font-variant:small-caps;
+    font-size:50px
+  }
+  #nose{
+    width:600px;
+    height:500px;
+  }
+  #reason{
+    font-size:30px;
+    color:red;
+  }
